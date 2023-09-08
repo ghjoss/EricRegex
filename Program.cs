@@ -2,12 +2,15 @@
 using System.IO;
 using System.Text.RegularExpressions;
 
-string filePath = @"D:\Downloads\technician.txt"; // Console.ReadLine();
+
+string filePath = @"D:\Source\EricRegex\technician.txt"; // Console.ReadLine();
 bool printOut = false;
 
 List<TechnicianQuestions> lTechQ = new List<TechnicianQuestions>();
 List<Sub_elements> lSubE = new List<Sub_elements>();
 List<Groups> lGrp = new List<Groups>();
+List<string> quiz = new List<string>();
+
 // The "group" matching regular expression has multiple matches on the group description lines due to each line
 // being repeated twice in the document. We need to keep track of what is added to the group list in a separate
 // list that keeps track of only the group key and not its description.
@@ -66,6 +69,7 @@ try
         Groups g = new Groups();
         g.subElem = match.Groups["subElem"].Value.Trim();
         g.group = match.Groups["group"].Value.Trim(); ;
+        g.ky = g.subElem + g.group;
         g.description = match.Groups["groupDesc"].Value.Trim();
         lGrp.Add(g);
     }
@@ -79,9 +83,10 @@ try
         TechnicianQuestions t = new TechnicianQuestions();
 
         t.subElem = match.Groups["subElem"].Value.Trim();
+        t.group = match.Groups["group"].Value.Trim();
+        t.ky = t.subElem + t.group;
         
-
-        t.questionNum = match.Groups["qnum"].Value.Trim();
+        t.questionNum = int.Parse(match.Groups["qnum"].Value.Trim());
         t.answer = match.Groups["Ans"].Value.Trim();
         t.documenationReference = match.Groups["Refr"].Value.Trim();
         t.question =  match.Groups["QstnTxt"].Value.Trim();
@@ -94,12 +99,26 @@ try
         lTechQ.Add(t);
        }
     // select all subElement T1 questions
-    var query = from TechnicianQuestion in lTechQ
-                where TechnicianQuestion.subElem == "T1"
-                & TechnicianQuestion.questionNum != "04"
-                select TechnicianQuestion;
-    foreach (var tq in query)
-        tq.print();
+    Random random = new Random();
+    List<string> quizLine = new List<string>(); 
+    foreach (var grp in lGrp)
+    {
+        int question = random.Next(1,lTechQ.Count(iT => iT.ky == grp.ky) + 1);
+
+        var query = from tq in lTechQ
+                    where tq.ky == grp.ky && tq.questionNum == question
+                    select tq;
+
+        foreach (var tq in query)
+            tq.print();
+        foreach (var tq in query)
+            quizLine.Add(tq.buildQuizLine());
+
+
+    }
+    Console.WriteLine("\n\nQUIZ:");
+    foreach (string s in quizLine)
+        Console.WriteLine(s);
     Console.WriteLine("Finished");
 }
 catch (FileNotFoundException)
@@ -110,3 +129,4 @@ catch (Exception ex)
 {
     Console.WriteLine($"An error occurred: {ex.Message}");
 }
+

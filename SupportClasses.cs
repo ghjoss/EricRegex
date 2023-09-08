@@ -12,6 +12,7 @@ public class Sub_elements
 
 public class Groups
 {
+    public string ky = "";
     public string subElem = "";
 	public string group = "";
 	public string description = "";
@@ -19,9 +20,10 @@ public class Groups
 
 public class TechnicianQuestions
 {
+    public string ky = "";
     public string subElem = "";
     public string group = "";
-    public string questionNum = "";
+    public int questionNum = 0;
     public string documenationReference = "";
     public string question = "";
     public string selectionA = "";
@@ -30,13 +32,9 @@ public class TechnicianQuestions
     public string selectionD = "";
     public string answer = "";
     
-    public void TechnicianQuestion()
-    {
-
-    }
     public void print()
     {
-        Console.WriteLine("QstnKey: " + subElem + group + questionNum);
+        Console.WriteLine("QstnKey: " + subElem + group + questionNum.ToString("00"));
         Console.WriteLine("Ans    : " + answer);
         Console.WriteLine("Refr   : " + documenationReference);
         Console.WriteLine("QstnTxt: " + question);
@@ -46,4 +44,18 @@ public class TechnicianQuestions
         Console.WriteLine("SelD   : " + selectionD);
 
     }
+    public void printKey()
+    {
+        Console.WriteLine("QstnKey: " + subElem + group + questionNum.ToString("00"));
+    }
+
+    public string buildQuizLine()
+    {
+        return question + "\n" + 
+            "\tA: " + selectionA + "\n" +
+            "\tB: " + selectionB + "\n" +
+            "\tC: " + selectionC + "\n" +
+            "\tD: " + selectionD +
+            (documenationReference != "" ? "\nReference: " + documenationReference + "\n":"") + "\n";
+         }
 }
