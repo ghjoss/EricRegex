@@ -1,0 +1,280 @@
+QstnKey: T1A01
+Ans    : C
+Refr   : 97.1
+QstnTxt: Which of the following is part of the Basis and Purpose of the Amateur Radio Service?
+SelA   : Providing personal radio communications for as many citizens as possible
+SelB   : Providing communications for international non-profit organizations
+SelC   : Advancing skills in the technical and communication phases of the radio art
+SelD   : All these choices are correct
+QstnKey: T1B08
+Ans    : A
+Refr   : 97.303
+QstnTxt: How are US amateurs restricted in segments of bands where the Amateur Radio Service is secondary?
+SelA   : U.S. amateurs may find non-amateur stations in those segments, and must avoid interfering with them
+SelB   : U.S. amateurs must give foreign amateur stations priority in those segments
+SelC   : International communications are not permitted in those segments
+SelD   : Digital transmissions are not permitted in those segments
+QstnKey: T1C03
+Ans    : A
+Refr   : 97.117
+QstnTxt: What types of international communications are an FCC-licensed amateur radio station permitted to make?
+SelA   : Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character
+SelB   : Communications incidental to conducting business or remarks of a personal nature
+SelC   : Only communications incidental to contest exchanges; all other communications are prohibited
+SelD   : Any communications that would be permitted by an international broadcast station
+QstnKey: T1D06
+Ans    : B
+Refr   : 97.113(a)(4)
+QstnTxt: What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?
+SelA   : The FCC maintains a list of words that are not permitted to be used on amateur frequencies
+SelB   : Any such language is prohibited
+SelC   : The ITU maintains a list of words that are not permitted to be used on amateur frequencies
+SelD   : There is no such prohibition
+QstnKey: T1E08
+Ans    : A
+Refr   : 97.3(a)(6), 97.205(d)
+QstnTxt: Which of the following is an example of automatic control?
+SelA   : Repeater operation
+SelB   : Controlling a station over the internet
+SelC   : Using a computer or other device to send CW automatically
+SelD   : Using a computer or other device to identify automatically
+QstnKey: T1F05
+Ans    : B
+Refr   : 97.119(b)(2)
+QstnTxt: What method of call sign identification is required for a station transmitting phone signals?
+SelA   : Send the call sign followed by the indicator RPT
+SelB   : Send the call sign using a CW or phone emission
+SelC   : Send the call sign followed by the indicator R
+SelD   : Send the call sign using only a phone emission
+QstnKey: T2A09
+Ans    : B
+Refr   : 
+QstnTxt: Which of the following indicates that a station is listening on a repeater and looking for a contact?
+SelA   : �CQ CQ� followed by the repeater�s call sign
+SelB   : The station�s call sign followed by the word �monitoring�
+SelC   : The repeater call sign followed by the station�s call sign
+SelD   : �QSY� followed by your call sign
+QstnKey: T2B10
+Ans    : A
+Refr   : 
+QstnTxt: Which Q signal indicates that you are receiving interference from other stations?
+SelA   : QRM
+SelB   : QRN
+SelC   : QTH
+SelD   : QSB
+QstnKey: T2C01
+Ans    : D
+Refr   : 97.103(a)
+QstnTxt: When do FCC rules NOT apply to the operation of an amateur station?
+SelA   : When operating a RACES station
+SelB   : When operating under special FEMA rules
+SelC   : When operating under special ARES rules
+SelD   : FCC rules always apply
+QstnKey: T3A06
+Ans    : B
+Refr   : 
+QstnTxt: What is the meaning of the term �picket fencing�?
+SelA   : Alternating transmissions during a net operation
+SelB   : Rapid flutter on mobile signals due to multipath propagation
+SelC   : A type of ground system used with vertical antennas
+SelD   : Local vs long-distance communications
+QstnKey: T3B06
+Ans    : D
+Refr   : 
+QstnTxt: What is the formula for converting frequency to approximate wavelength in meters?
+SelA   : Wavelength in meters equals frequency in hertz multiplied by 300
+SelB   : Wavelength in meters equals frequency in hertz divided by 300
+SelC   : Wavelength in meters equals frequency in megahertz divided by 300
+SelD   : Wavelength in meters equals 300 divided by frequency in megahertz
+QstnKey: T3C05
+Ans    : A
+Refr   : 
+QstnTxt: Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?
+SelA   : Knife-edge diffraction
+SelB   : Faraday rotation
+SelC   : Quantum tunneling
+SelD   : Doppler shift
+QstnKey: T4A10
+Ans    : A
+Refr   : 
+QstnTxt: What function is performed with a transceiver and a digital mode hot spot?
+SelA   : Communication using digital voice or data systems via the internet
+SelB   : FT8 digital communications via AFSK
+SelC   : RTTY encoding and decoding without a computer
+SelD   : High-speed digital communications for meteor scatter
+QstnKey: T4B12
+Ans    : D
+Refr   : 
+QstnTxt: What is the result of tuning an FM receiver above or below a signal�s frequency?
+SelA   : Change in audio pitch
+SelB   : Sideband inversion
+SelC   : Generation of a heterodyne tone
+SelD   : Distortion of the signal�s audio
+QstnKey: T5A12
+Ans    : D
+Refr   : 
+QstnTxt: What describes the number of times per second that an alternating current makes a complete cycle?
+SelA   : Pulse rate
+SelB   : Speed
+SelC   : Wavelength
+SelD   : Frequency
+QstnKey: T5B05
+Ans    : B
+Refr   : 
+QstnTxt: Which is equal to 500 milliwatts?
+SelA   : 0.02 watts
+SelB   : 0.5 watts
+SelC   : 5 watts
+SelD   : 50 watts
+QstnKey: T5C06
+Ans    : A
+Refr   : 
+QstnTxt: What does the abbreviation �RF� mean?
+SelA   : Radio frequency signals of all types
+SelB   : The resonant frequency of a tuned circuit
+SelC   : The real frequency transmitted as opposed to the apparent frequency
+SelD   : Reflective force in antenna transmission lines
+QstnKey: T5D06
+Ans    : A
+Refr   : 
+QstnTxt: What is the resistance of a circuit that draws 4 amperes from a 12-volt source?
+SelA   : 3 ohms
+SelB   : 16 ohms
+SelC   : 48 ohms
+SelD   : 8 ohms
+QstnKey: T6A01
+Ans    : B
+Refr   : 
+QstnTxt: What electrical component opposes the flow of current in a DC circuit?
+SelA   : Inductor
+SelB   : Resistor
+SelC   : Inverter
+SelD   : Transformer
+QstnKey: T6B09
+Ans    : C
+Refr   : 
+QstnTxt: What are the names for the electrodes of a diode?
+SelA   : Plus and minus
+SelB   : Source and drain
+SelC   : Anode and cathode
+SelD   : Gate and base
+QstnKey: T6C07
+Ans    : D
+Refr   : 
+QstnTxt: What is component 8 in figure T-2?
+SelA   : Resistor
+SelB   : Inductor
+SelC   : Regulator IC
+SelD   : Light emitting diode
+QstnKey: T6D08
+Ans    : D
+Refr   : 
+QstnTxt: Which of the following is combined with an inductor to make a resonant circuit?
+SelA   : Resistor
+SelB   : Zener diode
+SelC   : Potentiometer
+SelD   : Capacitor
+QstnKey: T7A10
+Ans    : B
+Refr   : 
+QstnTxt: What device increases the transmitted output power from a transceiver?
+SelA   : A voltage divider
+SelB   : An RF power amplifier
+SelC   : An impedance network
+SelD   : All these choices are correct
+QstnKey: T7B11
+Ans    : C
+Refr   : 
+QstnTxt: What is a symptom of RF feedback in a transmitter or transceiver?
+SelA   : Excessive SWR at the antenna connection
+SelB   : The transmitter will not stay on the desired frequency
+SelC   : Reports of garbled, distorted, or unintelligible voice transmissions
+SelD   : Frequent blowing of power supply fuses
+QstnKey: T7C05
+Ans    : A
+Refr   : 
+QstnTxt: Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?
+SelA   : To protect the output amplifier transistors
+SelB   : To comply with FCC rules on spectral purity
+SelC   : Because power supplies cannot supply enough current at high SWR
+SelD   : To lower the SWR on the transmission line
+QstnKey: T7D08
+Ans    : A
+Refr   : 
+QstnTxt: Which of the following types of solder should not be used for radio and electronic applications?
+SelA   : Acid-core solder
+SelB   : Lead-tin solder
+SelC   : Rosin-core solder
+SelD   : Tin-copper solder
+QstnKey: T8A11
+Ans    : B
+Refr   : 
+QstnTxt: What is the approximate bandwidth required to transmit a CW signal?
+SelA   : 2.4 kHz
+SelB   : 150 Hz
+SelC   : 1000 Hz
+SelD   : 15 kHz
+QstnKey: T8B08
+Ans    : B
+Refr   : 
+QstnTxt: What is meant by the statement that a satellite is operating in U/V mode?
+SelA   : The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band
+SelB   : The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band
+SelC   : The satellite operates using ultraviolet frequencies
+SelD   : The satellite frequencies are usually variable
+QstnKey: T8C11
+Ans    : A
+Refr   : 
+QstnTxt: What is an amateur radio station that connects other amateur stations to the internet?
+SelA   : A gateway
+SelB   : A repeater
+SelC   : A digipeater
+SelD   : A beacon
+QstnKey: T8D06
+Ans    : B
+Refr   : 
+QstnTxt: What does the abbreviation "PSK" mean?
+SelA   : Pulse Shift Keying
+SelB   : Phase Shift Keying
+SelC   : Packet Short Keying
+SelD   : Phased Slide Keying
+QstnKey: T9A10
+Ans    : D
+Refr   : 
+QstnTxt: In which direction does a half-wave dipole antenna radiate the strongest signal?
+SelA   : Equally in all directions
+SelB   : Off the ends of the antenna
+SelC   : In the direction of the feed line
+SelD   : Broadside to the antenna
+QstnKey: T9B12
+Ans    : A
+Refr   : 
+QstnTxt: What is standing wave ratio (SWR)?
+SelA   : A measure of how well a load is matched to a transmission line
+SelB   : The ratio of amplifier power output to input
+SelC   : The transmitter efficiency ratio
+SelD   : An indication of the quality of your station�s ground connection
+QstnKey: T0A02
+Ans    : D
+Refr   : 
+QstnTxt: What health hazard is presented by electrical current flowing through the body?
+SelA   : It may cause injury by heating tissue
+SelB   : It may disrupt the electrical functions of cells
+SelC   : It may cause involuntary muscle contractions
+SelD   : All these choices are correct
+QstnKey: T0B02
+Ans    : D
+Refr   : 
+QstnTxt: What is required when climbing an antenna tower?
+SelA   : Have sufficient training on safe tower climbing techniques
+SelB   : Use appropriate tie-off to the tower at all times
+SelC   : Always wear an approved climbing harness
+SelD   : All these choices are correct
+QstnKey: T0C10
+Ans    : A
+Refr   : 
+QstnTxt: Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?
+SelA   : It affects the average exposure to radiation
+SelB   : It affects the peak exposure to radiation
+SelC   : It takes into account the antenna feed line loss
+SelD   : It takes into account the thermal effects of the final amplifier

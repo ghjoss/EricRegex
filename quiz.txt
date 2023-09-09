@@ -1,0 +1,227 @@
+
+
+QUIZ:
+Which of the following is part of the Basis and Purpose of the Amateur Radio Service?
+	A: Providing personal radio communications for as many citizens as possible
+	B: Providing communications for international non-profit organizations
+	C: Advancing skills in the technical and communication phases of the radio art
+	D: All these choices are correct
+Reference: 97.1
+
+
+How are US amateurs restricted in segments of bands where the Amateur Radio Service is secondary?
+	A: U.S. amateurs may find non-amateur stations in those segments, and must avoid interfering with them
+	B: U.S. amateurs must give foreign amateur stations priority in those segments
+	C: International communications are not permitted in those segments
+	D: Digital transmissions are not permitted in those segments
+Reference: 97.303
+
+
+What types of international communications are an FCC-licensed amateur radio station permitted to make?
+	A: Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character
+	B: Communications incidental to conducting business or remarks of a personal nature
+	C: Only communications incidental to contest exchanges; all other communications are prohibited
+	D: Any communications that would be permitted by an international broadcast station
+Reference: 97.117
+
+
+What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?
+	A: The FCC maintains a list of words that are not permitted to be used on amateur frequencies
+	B: Any such language is prohibited
+	C: The ITU maintains a list of words that are not permitted to be used on amateur frequencies
+	D: There is no such prohibition
+Reference: 97.113(a)(4)
+
+
+Which of the following is an example of automatic control?
+	A: Repeater operation
+	B: Controlling a station over the internet
+	C: Using a computer or other device to send CW automatically
+	D: Using a computer or other device to identify automatically
+Reference: 97.3(a)(6), 97.205(d)
+
+
+What method of call sign identification is required for a station transmitting phone signals?
+	A: Send the call sign followed by the indicator RPT
+	B: Send the call sign using a CW or phone emission
+	C: Send the call sign followed by the indicator R
+	D: Send the call sign using only a phone emission
+Reference: 97.119(b)(2)
+
+
+Which of the following indicates that a station is listening on a repeater and looking for a contact?
+	A: �CQ CQ� followed by the repeater�s call sign
+	B: The station�s call sign followed by the word �monitoring�
+	C: The repeater call sign followed by the station�s call sign
+	D: �QSY� followed by your call sign
+
+Which Q signal indicates that you are receiving interference from other stations?
+	A: QRM
+	B: QRN
+	C: QTH
+	D: QSB
+
+When do FCC rules NOT apply to the operation of an amateur station?
+	A: When operating a RACES station
+	B: When operating under special FEMA rules
+	C: When operating under special ARES rules
+	D: FCC rules always apply
+Reference: 97.103(a)
+
+
+What is the meaning of the term �picket fencing�?
+	A: Alternating transmissions during a net operation
+	B: Rapid flutter on mobile signals due to multipath propagation
+	C: A type of ground system used with vertical antennas
+	D: Local vs long-distance communications
+
+What is the formula for converting frequency to approximate wavelength in meters?
+	A: Wavelength in meters equals frequency in hertz multiplied by 300
+	B: Wavelength in meters equals frequency in hertz divided by 300
+	C: Wavelength in meters equals frequency in megahertz divided by 300
+	D: Wavelength in meters equals 300 divided by frequency in megahertz
+
+Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?
+	A: Knife-edge diffraction
+	B: Faraday rotation
+	C: Quantum tunneling
+	D: Doppler shift
+
+What function is performed with a transceiver and a digital mode hot spot?
+	A: Communication using digital voice or data systems via the internet
+	B: FT8 digital communications via AFSK
+	C: RTTY encoding and decoding without a computer
+	D: High-speed digital communications for meteor scatter
+
+What is the result of tuning an FM receiver above or below a signal�s frequency?
+	A: Change in audio pitch
+	B: Sideband inversion
+	C: Generation of a heterodyne tone
+	D: Distortion of the signal�s audio
+
+What describes the number of times per second that an alternating current makes a complete cycle?
+	A: Pulse rate
+	B: Speed
+	C: Wavelength
+	D: Frequency
+
+Which is equal to 500 milliwatts?
+	A: 0.02 watts
+	B: 0.5 watts
+	C: 5 watts
+	D: 50 watts
+
+What does the abbreviation �RF� mean?
+	A: Radio frequency signals of all types
+	B: The resonant frequency of a tuned circuit
+	C: The real frequency transmitted as opposed to the apparent frequency
+	D: Reflective force in antenna transmission lines
+
+What is the resistance of a circuit that draws 4 amperes from a 12-volt source?
+	A: 3 ohms
+	B: 16 ohms
+	C: 48 ohms
+	D: 8 ohms
+
+What electrical component opposes the flow of current in a DC circuit?
+	A: Inductor
+	B: Resistor
+	C: Inverter
+	D: Transformer
+
+What are the names for the electrodes of a diode?
+	A: Plus and minus
+	B: Source and drain
+	C: Anode and cathode
+	D: Gate and base
+
+What is component 8 in figure T-2?
+	A: Resistor
+	B: Inductor
+	C: Regulator IC
+	D: Light emitting diode
+
+Which of the following is combined with an inductor to make a resonant circuit?
+	A: Resistor
+	B: Zener diode
+	C: Potentiometer
+	D: Capacitor
+
+What device increases the transmitted output power from a transceiver?
+	A: A voltage divider
+	B: An RF power amplifier
+	C: An impedance network
+	D: All these choices are correct
+
+What is a symptom of RF feedback in a transmitter or transceiver?
+	A: Excessive SWR at the antenna connection
+	B: The transmitter will not stay on the desired frequency
+	C: Reports of garbled, distorted, or unintelligible voice transmissions
+	D: Frequent blowing of power supply fuses
+
+Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?
+	A: To protect the output amplifier transistors
+	B: To comply with FCC rules on spectral purity
+	C: Because power supplies cannot supply enough current at high SWR
+	D: To lower the SWR on the transmission line
+
+Which of the following types of solder should not be used for radio and electronic applications?
+	A: Acid-core solder
+	B: Lead-tin solder
+	C: Rosin-core solder
+	D: Tin-copper solder
+
+What is the approximate bandwidth required to transmit a CW signal?
+	A: 2.4 kHz
+	B: 150 Hz
+	C: 1000 Hz
+	D: 15 kHz
+
+What is meant by the statement that a satellite is operating in U/V mode?
+	A: The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band
+	B: The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band
+	C: The satellite operates using ultraviolet frequencies
+	D: The satellite frequencies are usually variable
+
+What is an amateur radio station that connects other amateur stations to the internet?
+	A: A gateway
+	B: A repeater
+	C: A digipeater
+	D: A beacon
+
+What does the abbreviation "PSK" mean?
+	A: Pulse Shift Keying
+	B: Phase Shift Keying
+	C: Packet Short Keying
+	D: Phased Slide Keying
+
+In which direction does a half-wave dipole antenna radiate the strongest signal?
+	A: Equally in all directions
+	B: Off the ends of the antenna
+	C: In the direction of the feed line
+	D: Broadside to the antenna
+
+What is standing wave ratio (SWR)?
+	A: A measure of how well a load is matched to a transmission line
+	B: The ratio of amplifier power output to input
+	C: The transmitter efficiency ratio
+	D: An indication of the quality of your station�s ground connection
+
+What health hazard is presented by electrical current flowing through the body?
+	A: It may cause injury by heating tissue
+	B: It may disrupt the electrical functions of cells
+	C: It may cause involuntary muscle contractions
+	D: All these choices are correct
+
+What is required when climbing an antenna tower?
+	A: Have sufficient training on safe tower climbing techniques
+	B: Use appropriate tie-off to the tower at all times
+	C: Always wear an approved climbing harness
+	D: All these choices are correct
+
+Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?
+	A: It affects the average exposure to radiation
+	B: It affects the peak exposure to radiation
+	C: It takes into account the antenna feed line loss
+	D: It takes into account the thermal effects of the final amplifier
+

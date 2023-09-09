@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-public class Sub_elements
+public class SubElements
 {
 	public string subElem = "";
     public int questionCt = 0;
@@ -42,6 +42,18 @@ public class TechnicianQuestions
         Console.WriteLine("SelB   : " + selectionB);
         Console.WriteLine("SelC   : " + selectionC);
         Console.WriteLine("SelD   : " + selectionD);
+    }
+
+    public void print(StreamWriter qk)
+    {
+        qk.WriteLine("QstnKey: " + subElem + group + questionNum.ToString("00"));
+        qk.WriteLine("Ans    : " + answer);
+        qk.WriteLine("Refr   : " + documenationReference);
+        qk.WriteLine("QstnTxt: " + question);
+        qk.WriteLine("SelA   : " + selectionA);
+        qk.WriteLine("SelB   : " + selectionB);
+        qk.WriteLine("SelC   : " + selectionC);
+        qk.WriteLine("SelD   : " + selectionD);
 
     }
     public void printKey()
