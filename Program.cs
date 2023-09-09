@@ -100,6 +100,7 @@ try {
     // Display the matched occurrences
     if (printOut)
         Console.WriteLine($"Found {matchesTechQ.Count} Technician Question matches:");
+
     foreach (Match match in matchesTechQ)
     {
         TechnicianQuestions t = new TechnicianQuestions();
@@ -127,16 +128,21 @@ try {
     StreamWriter quizKey = new StreamWriter(quizKeyPath);
     foreach (var grp in lGrp)
     {
+        // Determine how many questions there are for this subElement/group. Use random to pick
+        // one of those questions.
         int question = random.Next(1,lTechQ.Count(iT => iT.ky == grp.ky) + 1);
 
+        // Pull the random question out of lTechQ List
         var query = from tq in lTechQ
                     where tq.ky == grp.ky && 
                     tq.questionNum == question
                     select tq;
  
+        // write to instructor's quiz key file.
         foreach (var tq in query)
             tq.print(quizKey);
 
+        // Add the question (and section reference, if applicable) to the quiz
         foreach (var tq in query)
             lQuizLine.Add(tq.buildQuizLine());
     }
@@ -144,7 +150,7 @@ try {
  
     using (StreamWriter quiz = new StreamWriter(quizPath))
     {
-        quiz.WriteLine("\n\nQUIZ:");
+        //write the quiz
         foreach (string s in lQuizLine)
             quiz.WriteLine(s);
         quiz.Close();
@@ -157,4 +163,3 @@ catch (Exception ex)
     Console.WriteLine($"An error occurred: {ex.Message}");
     Environment.Exit(1);
 }
-
