@@ -4,7 +4,11 @@ using System.Text.RegularExpressions;
 
 
 // Files
-string inputFilePath = @"D:\Source\EricRegex\technician.txt";
+string inputFilePathT = @"D:\Source\EricRegex\technician.txt";
+string inputFilePathG1 = @"D:\Source\EricRegex\2019-2023GeneralClassPoolFinalRelease.txt";
+string inputFilePathG2 = @"D:\Source\EricRegex\General Class Pool and Syllabus 2023-2027 Public Release with 2nd Errata April 15 2023.txt";
+string inputFilePathE = @"D:\Source\EricRegex\2020ExtraClassPoolJan22.txt";
+string inputFilePath = inputFilePathE;
 string quizPath = @"D:\Source\EricRegex\quiz.txt";
 string quizKeyPath = @"D:\Source\EricRegex\quizKey.txt";
 
@@ -28,7 +32,7 @@ List<string> lQuizLine = new List<string>();
 // The regular expressions for parsing the input file
 string questionsRE =
          @"(?<QstnKey>" +
-             @"(?<subElem>T[0-9])" +
+             @"(?<subElem>[EGT][0-9])" +
              @"(?<group>[A-F])" +
              @"(?<qnum>[0-1][0-9])" +
          @")" +
@@ -42,11 +46,11 @@ string questionsRE =
      @"D\.(?<SelD>.*)\n";
 
 string subElementRE =
-    @"SUBELEMENT\s+(?<subElem>T[0-9])\s+.\s+(?<subElemDesc>.*)\s+.\s+\[(?<ExamQCt>[0-9])\s*Exam\s*Questions\s+.\s+(?<groupCt>[1-9][0-9]{0,1})\s*Groups\]\s*(?<questionCt>[1-9][0-9]{0,1})";
+    @"SUBELEMENT\s+(?<subElem>[EGT][0-9])((\s\-\s)|\s*)(?<subElemDesc>.*)\[(?<ExamQCt>[0-9])\s{0,1}[Ee]xam\s*[Qq]uestions{0,1}((\s\-\s)|\s*)(?<groupCt>[1-9][0-9]{0,1})\s*[Gg]roups{0,1}\]\s*(?<questionCt>[1-9][0-9]{0,1})";
 
 string groupRE =
-    @"(?<ky>(?<subElem>T[0-9])(?<group>[A-Z]))\s\S\s(?<groupDesc>.*)";
-
+//    @"(?:\n)(?<ky>(?<subElem>[EGT][0-9])(?<group>[A-Z]))\s\S\s(?<groupDesc>.*)";
+    @"(?:\n)(?<ky>(?<subElem>[EGT][0-9])(?<group>[A-Z]))([\-–\s]|\s\S\s)(?<groupDesc>.*)";
 
 try
 {
@@ -156,6 +160,7 @@ try {
         quiz.Close();
     }
 
+    
     Console.WriteLine("Finished");
 }
 catch (Exception ex)

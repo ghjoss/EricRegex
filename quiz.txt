@@ -1,227 +1,288 @@
+If a station in a message forwarding system inadvertently forwards a message that is in violation of FCC rules, who is primarily accountable for the rules violation?
+	A: The control operator of the packet bulletin board station
+	B: The control operator of the originating station
+	C: The control operators of all the stations in the system
+	D: The control operators of all the stations in the system not authenticating the source from which they accept communications
+Reference: 97.219
 
 
-QUIZ:
-Which of the following is part of the Basis and Purpose of the Amateur Radio Service?
-	A: Providing personal radio communications for as many citizens as possible
-	B: Providing communications for international non-profit organizations
-	C: Advancing skills in the technical and communication phases of the radio art
+What frequencies are authorized to an amateur station operating under RACES rules?
+	A: All amateur service frequencies authorized to the control operator
+	B: Specific segments in the amateur service MF, HF, VHF and UHF bands
+	C: Specific local government channels
+	D: Military Auxiliary Radio System (MARS) channels
+Reference: 97.407
+
+
+Which of the following operating arrangements allows an FCC-licensed U.S. citizen to operate in many European countries, and alien amateurs from many European countries to operate in the U.S.?
+	A: CEPT agreement
+	B: IARP agreement
+	C: ITU reciprocal license
 	D: All these choices are correct
-Reference: 97.1
+Reference: 97.5
 
 
-How are US amateurs restricted in segments of bands where the Amateur Radio Service is secondary?
-	A: U.S. amateurs may find non-amateur stations in those segments, and must avoid interfering with them
-	B: U.S. amateurs must give foreign amateur stations priority in those segments
-	C: International communications are not permitted in those segments
-	D: Digital transmissions are not permitted in those segments
-Reference: 97.303
-
-
-What types of international communications are an FCC-licensed amateur radio station permitted to make?
-	A: Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character
-	B: Communications incidental to conducting business or remarks of a personal nature
-	C: Only communications incidental to contest exchanges; all other communications are prohibited
-	D: Any communications that would be permitted by an international broadcast station
-Reference: 97.117
-
-
-What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?
-	A: The FCC maintains a list of words that are not permitted to be used on amateur frequencies
-	B: Any such language is prohibited
-	C: The ITU maintains a list of words that are not permitted to be used on amateur frequencies
-	D: There is no such prohibition
-Reference: 97.113(a)(4)
-
-
-Which of the following is an example of automatic control?
-	A: Repeater operation
-	B: Controlling a station over the internet
-	C: Using a computer or other device to send CW automatically
-	D: Using a computer or other device to identify automatically
-Reference: 97.3(a)(6), 97.205(d)
-
-
-What method of call sign identification is required for a station transmitting phone signals?
-	A: Send the call sign followed by the indicator RPT
-	B: Send the call sign using a CW or phone emission
-	C: Send the call sign followed by the indicator R
-	D: Send the call sign using only a phone emission
-Reference: 97.119(b)(2)
-
-
-Which of the following indicates that a station is listening on a repeater and looking for a contact?
-	A: �CQ CQ� followed by the repeater�s call sign
-	B: The station�s call sign followed by the word �monitoring�
-	C: The repeater call sign followed by the station�s call sign
-	D: �QSY� followed by your call sign
-
-Which Q signal indicates that you are receiving interference from other stations?
-	A: QRM
-	B: QRN
-	C: QTH
-	D: QSB
-
-When do FCC rules NOT apply to the operation of an amateur station?
-	A: When operating a RACES station
-	B: When operating under special FEMA rules
-	C: When operating under special ARES rules
-	D: FCC rules always apply
-Reference: 97.103(a)
-
-
-What is the meaning of the term �picket fencing�?
-	A: Alternating transmissions during a net operation
-	B: Rapid flutter on mobile signals due to multipath propagation
-	C: A type of ground system used with vertical antennas
-	D: Local vs long-distance communications
-
-What is the formula for converting frequency to approximate wavelength in meters?
-	A: Wavelength in meters equals frequency in hertz multiplied by 300
-	B: Wavelength in meters equals frequency in hertz divided by 300
-	C: Wavelength in meters equals frequency in megahertz divided by 300
-	D: Wavelength in meters equals 300 divided by frequency in megahertz
-
-Which of the following effects may allow radio signals to travel beyond obstructions between the transmitting and receiving stations?
-	A: Knife-edge diffraction
-	B: Faraday rotation
-	C: Quantum tunneling
-	D: Doppler shift
-
-What function is performed with a transceiver and a digital mode hot spot?
-	A: Communication using digital voice or data systems via the internet
-	B: FT8 digital communications via AFSK
-	C: RTTY encoding and decoding without a computer
-	D: High-speed digital communications for meteor scatter
-
-What is the result of tuning an FM receiver above or below a signal�s frequency?
-	A: Change in audio pitch
-	B: Sideband inversion
-	C: Generation of a heterodyne tone
-	D: Distortion of the signal�s audio
-
-What describes the number of times per second that an alternating current makes a complete cycle?
-	A: Pulse rate
-	B: Speed
-	C: Wavelength
-	D: Frequency
-
-Which is equal to 500 milliwatts?
-	A: 0.02 watts
-	B: 0.5 watts
+What is the maximum permitted transmitter output power when operating a model craft by telecommand?
+	A: 1 watt
+	B: 2 watts
 	C: 5 watts
+	D: 100 watts
+Reference: 97.215(c)
+
+
+What is the minimum passing score on all amateur operator license examinations?
+	A: Minimum passing score of 70%
+	B: Minimum passing score of 74%
+	C: Minimum passing score of 80%
+	D: Minimum passing score of 77%
+Reference: 97.503
+
+
+When may an amateur station send a message to a business?
+	A: When the total money involved does not exceed $25
+	B: When the control operator is employed by the FCC or another government agency
+	C: When transmitting international third-party communications
+	D: When neither the amateur nor his or her employer has a pecuniary interest in the communications
+Reference: 97.113
+
+
+What is the purpose of digital store-and-forward functions on an amateur radio satellite?
+	A: To upload operational software for the transponder
+	B: To delay download of telemetry between satellites
+	C: To store digital messages in the satellite for later download by other stations
+	D: To relay messages between satellites
+
+What signals SSTV receiving software to begin a new picture line?
+	A: Specific tone frequencies
+	B: Elapsed time
+	C: Specific tone amplitudes
+	D: A two-tone signal
+
+During a VHF/UHF contest, in which band segment would you expect to find the highest level of SSB or CW activity?
+	A: At the top of each band, usually in a segment reserved for contests
+	B: In the middle of each band, usually on the national calling frequency
+	C: In the weak signal segment of the band, with most of the activity near the calling frequency
+	D: In the middle of the band, usually 25 kHz above the national calling frequency
+
+What is one advantage of the JT65 mode?
+	A: Uses only a 65 Hz bandwidth
+	B: The ability to decode signals which have a very low signal-to-noise ratio
+	C: Easily copied by ear if necessary
+	D: Permits fast-scan TV transmissions over narrow bandwidth
+
+Which of these digital modes has the narrowest bandwidth?
+	A: MFSK16
+	B: 170 Hz shift, 45-baud RTTY
+	C: PSK31
+	D: 300-baud packet
+
+What is the cause of auroral activity?
+	A: The interaction in the F2 layer between the solar wind and the Van Allen belt
+	B: An extreme low-pressure area in the polar regions
+	C: The interaction in the E layer of charged particles from the Sun with the Earth's magnetic field
+	D: Meteor showers concentrated in the extreme northern and southern latitudes
+
+What is the best time of day for transequatorial propagation?
+	A: Morning
+	B: Noon
+	C: Afternoon or early evening
+	D: Late at night
+
+What does the space weather term G5 mean?
+	A: An extreme geomagnetic storm
+	B: Very low solar activity
+	C: Moderate solar wind
+	D: Waning sunspot numbers
+
+Which of the following measures SWR?
+	A: A spectrum analyzer
+	B: A Q meter
+	C: An ohmmeter
+	D: An antenna analyzer
+
+Which of the following methods measures intermodulation distortion in an SSB transmitter?
+	A: Modulate the transmitter using two RF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+	B: Modulate the transmitter using two AF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
+	C: Modulate the transmitter using two AF signals having harmonically related frequencies and observe the RF output with a peak reading wattmeter
+	D: Modulate the transmitter using two RF signals having harmonically related frequencies and observe the RF output with a logic analyzer
+
+How does a narrow-band roofing filter affect receiver performance?
+	A: It improves sensitivity by reducing front end noise
+	B: It improves intelligibility by using low Q circuitry to reduce ringing
+	C: It improves dynamic range by attenuating strong signals near the receive frequency
+	D: All these choices are correct
+
+What is meant by the blocking dynamic range of a receiver?
+	A: The difference in dB between the noise floor and the level of an incoming signal that will cause 1 dB of gain compression
+	B: The minimum difference in dB between the levels of two FM signals that will cause one signal to block the other
+	C: The difference in dB between the noise floor and the third-order intercept point
+	D: The minimum difference in dB between two signals which produce third-order intermodulation products greater than the noise floor
+
+How can radio frequency interference from an AC motor be suppressed?
+	A: By installing a high-pass filter in series with the motor's power leads
+	B: By installing a brute-force AC-line filter in series with the motor leads
+	C: By installing a bypass capacitor in series with the motor leads
+	D: By using a ground-fault current interrupter in the circuit used to power the motor
+
+What is the half-power bandwidth of a resonant circuit that has a resonant frequency of 3.7 MHz and a Q of 118?
+	A: 436.6 kHz
+	B: 218.3 kHz
+	C: 31.4 kHz
+	D: 15.7 kHz
+
+What is the phase angle between the voltage across and the current through a series RLC circuit if XC is 500 ohms, R is 1 kilohm, and XL is 250 ohms?
+	A: 68.2 degrees with the voltage leading the current
+	B: 14.0 degrees with the voltage leading the current
+	C: 14.0 degrees with the voltage lagging the current
+	D: 68.2 degrees with the voltage lagging the current
+
+Which of the following represents an inductive reactance in polar coordinates?
+	A: A positive magnitude
+	B: A negative magnitude
+	C: A positive phase angle
+	D: A negative phase angle
+
+How many watts are consumed in a circuit having a power factor of 0.2 if the input is 100 VAC at 4 amperes?
+	A: 400 watts
+	B: 80 watts
+	C: 2000 watts
 	D: 50 watts
 
-What does the abbreviation �RF� mean?
-	A: Radio frequency signals of all types
-	B: The resonant frequency of a tuned circuit
-	C: The real frequency transmitted as opposed to the apparent frequency
-	D: Reflective force in antenna transmission lines
+What is the beta of a bipolar junction transistor?
+	A: The frequency at which the current gain is reduced to 0.707
+	B: The change in collector current with respect to base current
+	C: The breakdown voltage of the base to collector junction
+	D: The switching speed
 
-What is the resistance of a circuit that draws 4 amperes from a 12-volt source?
-	A: 3 ohms
-	B: 16 ohms
-	C: 48 ohms
-	D: 8 ohms
+What is an important characteristic of a Schottky diode as compared to an ordinary silicon diode when used as a power supply rectifier?
+	A: Much higher reverse voltage breakdown
+	B: More constant reverse avalanche voltage
+	C: Longer carrier retention time
+	D: Less forward voltage drop
 
-What electrical component opposes the flow of current in a DC circuit?
-	A: Inductor
-	B: Resistor
-	C: Inverter
-	D: Transformer
+What best describes a pull-up or pull-down resistor?
+	A: A resistor in a keying circuit used to reduce key clicks
+	B: A resistor connected to the positive or negative supply line used to establish a voltage when an input or output is an open circuit
+	C: A resistor that ensures that an oscillator frequency does not drift
+	D: A resistor connected to an op-amp output that prevents signals from exceeding the power supply voltage
 
-What are the names for the electrodes of a diode?
-	A: Plus and minus
-	B: Source and drain
-	C: Anode and cathode
-	D: Gate and base
+What is current in the primary winding of a transformer called if no load is attached to the secondary?
+	A: Magnetizing current
+	B: Direct current
+	C: Excitation current
+	D: Stabilizing current
 
-What is component 8 in figure T-2?
-	A: Resistor
-	B: Inductor
-	C: Regulator IC
-	D: Light emitting diode
+How is power supplied to the most common type of MMIC?
+	A: Through a resistor and/or RF choke connected to the amplifier output lead
+	B: MMICs require no operating bias
+	C: Through a capacitor and RF choke connected to the amplifier input lead
+	D: Directly to the bias voltage (VCC IN) lead
 
-Which of the following is combined with an inductor to make a resonant circuit?
-	A: Resistor
-	B: Zener diode
-	C: Potentiometer
-	D: Capacitor
+What is the approximate open-circuit voltage produced by a fully illuminated silicon photovoltaic cell?
+	A: 0.1 V
+	B: 0.5 V
+	C: 1.5 V
+	D: 12 V
 
-What device increases the transmitted output power from a transceiver?
-	A: A voltage divider
-	B: An RF power amplifier
-	C: An impedance network
+What is a characteristic of a monostable multivibrator?
+	A: It switches momentarily to the opposite binary state and then returns to its original state after a set time
+	B: It produces a continuous square wave oscillating between 1 and 0
+	C: It stores one bit of data in either a 0 or 1 state
+	D: It maintains a constant output voltage, regardless of variations in the input voltage
+
+How can an RF power amplifier be neutralized?
+	A: By increasing the driving power
+	B: By reducing the driving power
+	C: By feeding a 180-degree out-of-phase portion of the output back to the input
+	D: By feeding an in-phase component of the output back to the input
+
+Which of the following factors has the greatest effect on the bandwidth and response shape of a crystal ladder filter?
+	A: The relative frequencies of the individual crystals
+	B: The DC voltage applied to the quartz crystal
+	C: The gain of the RF stage preceding the filter
+	D: The amplitude of the signals passing through the filter
+
+What is the dropout voltage of an analog voltage regulator?
+	A: Minimum input voltage for rated power dissipation
+	B: Maximum output voltage drops when the input voltage is varied over its specified range
+	C: Minimum input-to-output voltage required to maintain regulation
+	D: Maximum that the output voltage may decrease at rated load
+
+What is the function of a reactance modulator?
+	A: To produce PM signals by using an electrically variable resistance
+	B: To produce AM signals by using an electrically variable inductance or capacitance
+	C: To produce AM signals by using an electrically variable resistance
+	D: To produce PM or FM signals by using an electrically variable inductance or capacitance
+
+How frequently must an analog signal be sampled by an analog-to-digital converter so that the signal can be accurately reproduced?
+	A: At least half the rate of the highest frequency component of the signal
+	B: At least twice the rate of the highest frequency component of the signal
+	C: At the same rate as the highest frequency component of the signal
+	D: At four times the rate of the highest frequency component of the signal
+
+Why would a direct or flash conversion analog-to-digital converter be useful for a software defined radio?
+	A: Very low power consumption decreases frequency drift
+	B: Immunity to out-of-sequence coding reduces spurious responses
+	C: Very high speed allows digitizing high frequencies
 	D: All these choices are correct
 
-What is a symptom of RF feedback in a transmitter or transceiver?
-	A: Excessive SWR at the antenna connection
-	B: The transmitter will not stay on the desired frequency
-	C: Reports of garbled, distorted, or unintelligible voice transmissions
-	D: Frequent blowing of power supply fuses
+What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus-or-minus 5 kHz when the maximum modulation frequency is 3 kHz?
+	A: 60
+	B: 0.167
+	C: 0.6
+	D: 1.67
 
-Why do most solid-state transmitters reduce output power as SWR increases beyond a certain level?
-	A: To protect the output amplifier transistors
-	B: To comply with FCC rules on spectral purity
-	C: Because power supplies cannot supply enough current at high SWR
-	D: To lower the SWR on the transmission line
+Which digital code allows only one bit to change between sequential code values?
+	A: Binary Coded Decimal Code
+	B: Extended Binary Coded Decimal Interchange Code
+	C: Excess 3 code
+	D: Gray code
 
-Which of the following types of solder should not be used for radio and electronic applications?
-	A: Acid-core solder
-	B: Lead-tin solder
-	C: Rosin-core solder
-	D: Tin-copper solder
+What is considered an acceptable maximum IMD level for an idling PSK signal?
+	A: +10 dB
+	B: +15 dB
+	C: -20 dB
+	D: -30 dB
 
-What is the approximate bandwidth required to transmit a CW signal?
-	A: 2.4 kHz
-	B: 150 Hz
-	C: 1000 Hz
-	D: 15 kHz
+What is antenna bandwidth?
+	A: Antenna length divided by the number of elements
+	B: The frequency range over which an antenna satisfies a performance requirement
+	C: The angle between the half-power radiation points
+	D: The angle formed between two imaginary lines drawn through the element ends
 
-What is meant by the statement that a satellite is operating in U/V mode?
-	A: The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band
-	B: The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band
-	C: The satellite operates using ultraviolet frequencies
-	D: The satellite frequencies are usually variable
+How does the total amount of radiation emitted by a directional gain antenna compare with the total amount of radiation emitted from a theoretical isotropic antenna, assuming each is driven by the same amount of power?
+	A: The total amount of radiation from the directional antenna is increased by the gain of the antenna
+	B: The total amount of radiation from the directional antenna is stronger by its front-to-back ratio
+	C: They are the same
+	D: The radiation from the isotropic antenna is 2.15 dB stronger than that from the directional antenna
 
-What is an amateur radio station that connects other amateur stations to the internet?
-	A: A gateway
-	B: A repeater
-	C: A digipeater
-	D: A beacon
+How does the radiation pattern of a horizontally polarized 3-element beam antenna vary with increasing height above ground?
+	A: The takeoff angle of the lowest elevation lobe increases
+	B: The takeoff angle of the lowest elevation lobe decreases
+	C: The horizontal beamwidth increases
+	D: The horizontal beamwidth decreases
 
-What does the abbreviation "PSK" mean?
-	A: Pulse Shift Keying
-	B: Phase Shift Keying
-	C: Packet Short Keying
-	D: Phased Slide Keying
+What is the function of a loading coil used as part of an HF mobile antenna?
+	A: To increase the SWR bandwidth
+	B: To lower the losses
+	C: To lower the Q
+	D: To cancel capacitive reactance
 
-In which direction does a half-wave dipole antenna radiate the strongest signal?
-	A: Equally in all directions
-	B: Off the ends of the antenna
-	C: In the direction of the feed line
-	D: Broadside to the antenna
+Which of these choices is an effective way to match an antenna with a 100-ohm feed point impedance to a 50-ohm coaxial cable feed line?
+	A: Connect a 1/4-wavelength open stub of 300-ohm twinlead in parallel with the coaxial feed line where it connects to the antenna
+	B: Insert a 1/2 wavelength piece of 300-ohm twinlead in series between the antenna terminals and the 50-ohm feed cable
+	C: Insert a 1/4-wavelength piece of 75-ohm coaxial cable transmission line in series between the antenna terminals and the 50-ohm feed cable
+	D: Connect a 1/2 wavelength shorted stub of 75-ohm cable in parallel with the 50-ohm cable where it attaches to the antenna
 
-What is standing wave ratio (SWR)?
-	A: A measure of how well a load is matched to a transmission line
-	B: The ratio of amplifier power output to input
-	C: The transmitter efficiency ratio
-	D: An indication of the quality of your station�s ground connection
+What is the approximate physical length of an air-insulated, parallel conductor transmission line that is electrically 1/2 wavelength long at 14.10 MHz?
+	A: 7.0 meters
+	B: 8.5 meters
+	C: 10.6 meters
+	D: 13.3 meters
 
-What health hazard is presented by electrical current flowing through the body?
-	A: It may cause injury by heating tissue
-	B: It may disrupt the electrical functions of cells
-	C: It may cause involuntary muscle contractions
-	D: All these choices are correct
-
-What is required when climbing an antenna tower?
-	A: Have sufficient training on safe tower climbing techniques
-	B: Use appropriate tie-off to the tower at all times
-	C: Always wear an approved climbing harness
-	D: All these choices are correct
-
-Why is duty cycle one of the factors used to determine safe RF radiation exposure levels?
-	A: It affects the average exposure to radiation
-	B: It affects the peak exposure to radiation
-	C: It takes into account the antenna feed line loss
-	D: It takes into account the thermal effects of the final amplifier
+What does SAR measure?
+	A: Synthetic Aperture Ratio of the human body
+	B: Signal Amplification Rating
+	C: The rate at which RF energy is absorbed by the body
+	D: The rate of RF energy reflected from stationary terrain
 
