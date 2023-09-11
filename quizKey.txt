@@ -1,107 +1,107 @@
-QstnKey: E1A08
-Ans    : B
-Refr   : 97.219
-QstnTxt: If a station in a message forwarding system inadvertently forwards a message that is in violation of FCC rules, who is primarily accountable for the rules violation?
-SelA   : The control operator of the packet bulletin board station
-SelB   : The control operator of the originating station
-SelC   : The control operators of all the stations in the system
-SelD   : The control operators of all the stations in the system not authenticating the source from which they accept communications
-QstnKey: E1B10
+QstnKey: E1A12
+Ans    : C
+Refr   : 
+QstnTxt: What special operating frequency restrictions are imposed on slow scan TV transmissions?
+SelA   : None; they are allowed on all amateur frequencies
+SelB   : They are restricted to 7.245 MHz, 14.245 MHz, 21.345 MHz, and 28.945 MHz
+SelC   : They are restricted to phone band segments
+SelD   : They are not permitted above 54 MHz
+QstnKey: E1B12
 Ans    : A
-Refr   : 97.407
-QstnTxt: What frequencies are authorized to an amateur station operating under RACES rules?
-SelA   : All amateur service frequencies authorized to the control operator
-SelB   : Specific segments in the amateur service MF, HF, VHF and UHF bands
-SelC   : Specific local government channels
-SelD   : Military Auxiliary Radio System (MARS) channels
-QstnKey: E1C11
-Ans    : A
-Refr   : 97.5
-QstnTxt: Which of the following operating arrangements allows an FCC-licensed U.S. citizen to operate in many European countries, and alien amateurs from many European countries to operate in the U.S.?
-SelA   : CEPT agreement
-SelB   : IARP agreement
-SelC   : ITU reciprocal license
+Refr   : 97.303(b)
+QstnTxt: What must the control operator of a repeater operating in the 70 cm band do if a radiolocation system experiences interference from that repeater?
+SelA   : Cease operation or make changes to the repeater to mitigate the interference
+SelB   : File an FAA NOTAM (Notice to Airmen) with the repeater system's ERP, call sign, and six-character grid locator
+SelC   : Reduce the repeater antenna HAAT (Height Above Average Terrain)
 SelD   : All these choices are correct
-QstnKey: E1D06
+QstnKey: E1C04
 Ans    : A
-Refr   : 97.215(c)
-QstnTxt: What is the maximum permitted transmitter output power when operating a model craft by telecommand?
-SelA   : 1 watt
-SelB   : 2 watts
-SelC   : 5 watts
-SelD   : 100 watts
-QstnKey: E1E05
-Ans    : B
-Refr   : 97.503
-QstnTxt: What is the minimum passing score on all amateur operator license examinations?
-SelA   : Minimum passing score of 70%
-SelB   : Minimum passing score of 74%
-SelC   : Minimum passing score of 80%
-SelD   : Minimum passing score of 77%
-QstnKey: E1F07
+Refr   : 
+QstnTxt: What is meant by IARP?
+SelA   : An international amateur radio permit that allows U.S. amateurs to operate in certain countries of the Americas
+SelB   : The internal amateur radio practices policy of the FCC
+SelC   : An indication of increased antenna reflected power
+SelD   : A forecast of intermittent aurora radio propagation
+QstnKey: E1D07
+Ans    : A
+Refr   : 97.207
+QstnTxt: Which HF amateur bands have frequencies authorized for space stations?
+SelA   : Only the 40, 20, 17, 15, 12, and 10 meter bands
+SelB   : Only the 40, 20, 17, 15, and 10 meter bands
+SelC   : Only the 40, 30, 20, 15, 12, and 10 meter bands
+SelD   : All HF bands
+QstnKey: E1E06
+Ans    : C
+Refr   : 97.509
+QstnTxt: Who is responsible for the proper conduct and necessary supervision during an amateur operator license examination session?
+SelA   : The VEC coordinating the session
+SelB   : The FCC
+SelC   : Each administering VE
+SelD   : The VE session manager
+QstnKey: E1F08
+Ans    : A
+Refr   : 97.113(c)
+QstnTxt: Which of the following types of amateur station communications are prohibited?
+SelA   : Communications transmitted for hire or material compensation, except as otherwise provided in the rules
+SelB   : Communications that have political content, except as allowed by the Fairness Doctrine
+SelC   : Communications that have religious content
+SelD   : Communications in a language other than English
+QstnKey: E2A02
 Ans    : D
-Refr   : 97.113
-QstnTxt: When may an amateur station send a message to a business?
-SelA   : When the total money involved does not exceed $25
-SelB   : When the control operator is employed by the FCC or another government agency
-SelC   : When transmitting international third-party communications
-SelD   : When neither the amateur nor his or her employer has a pecuniary interest in the communications
-QstnKey: E2A12
-Ans    : C
 Refr   : 
-QstnTxt: What is the purpose of digital store-and-forward functions on an amateur radio satellite?
-SelA   : To upload operational software for the transponder
-SelB   : To delay download of telemetry between satellites
-SelC   : To store digital messages in the satellite for later download by other stations
-SelD   : To relay messages between satellites
-QstnKey: E2B12
-Ans    : A
+QstnTxt: Which of the following occurs when a satellite is using an inverted linear transponder?
+SelA   : Doppler shift is reduced because the uplink and downlink shifts are in opposite directions
+SelB   : Signal position in the band is reversed
+SelC   : Upper sideband on the uplink becomes lower sideband on the downlink, and vice versa
+SelD   : All these choices are correct
+QstnKey: E2B09
+Ans    : D
 Refr   : 
-QstnTxt: What signals SSTV receiving software to begin a new picture line?
-SelA   : Specific tone frequencies
-SelB   : Elapsed time
-SelC   : Specific tone amplitudes
-SelD   : A two-tone signal
-QstnKey: E2C06
-Ans    : C
-Refr   : 
-QstnTxt: During a VHF/UHF contest, in which band segment would you expect to find the highest level of SSB or CW activity?
-SelA   : At the top of each band, usually in a segment reserved for contests
-SelB   : In the middle of each band, usually on the national calling frequency
-SelC   : In the weak signal segment of the band, with most of the activity near the calling frequency
-SelD   : In the middle of the band, usually 25 kHz above the national calling frequency
-QstnKey: E2D05
+QstnTxt: What hardware, other than a receiver with SSB capability and a suitable computer, is needed to decode SSTV using Digital Radio Mondiale (DRM)?
+SelA   : A special IF converter
+SelB   : A special front end limiter
+SelC   : A special notch filter to remove synchronization pulses
+SelD   : No other hardware is needed
+QstnKey: E2C08
 Ans    : B
 Refr   : 
-QstnTxt: What is one advantage of the JT65 mode?
-SelA   : Uses only a 65 Hz bandwidth
-SelB   : The ability to decode signals which have a very low signal-to-noise ratio
-SelC   : Easily copied by ear if necessary
-SelD   : Permits fast-scan TV transmissions over narrow bandwidth
-QstnKey: E2E10
-Ans    : C
+QstnTxt: Which of the following contacts may be confirmed through the U.S. QSL bureau system?
+SelA   : Special event contacts between stations in the U.S.
+SelB   : Contacts between a U.S. station and a non-U.S. station
+SelC   : Repeater contacts between U.S. club members
+SelD   : Contacts using tactical call signs
+QstnKey: E2D09
+Ans    : A
 Refr   : 
-QstnTxt: Which of these digital modes has the narrowest bandwidth?
-SelA   : MFSK16
-SelB   : 170 Hz shift, 45-baud RTTY
+QstnTxt: What type of modulation is used for JT65 contacts?
+SelA   : Multi-tone AFSK
+SelB   : PSK
+SelC   : RTTY
+SelD   : IEEE 802.11
+QstnKey: E2E13
+Ans    : D
+Refr   : 
+QstnTxt: Which of these digital modes has the fastest data throughput under clear communication conditions?
+SelA   : AMTOR
+SelB   : 170 Hz shift, 45 baud RTTY
 SelC   : PSK31
-SelD   : 300-baud packet
-QstnKey: E3A12
-Ans    : C
+SelD   : 300 baud packet
+QstnKey: E3A11
+Ans    : B
 Refr   : 
-QstnTxt: What is the cause of auroral activity?
-SelA   : The interaction in the F2 layer between the solar wind and the Van Allen belt
-SelB   : An extreme low-pressure area in the polar regions
-SelC   : The interaction in the E layer of charged particles from the Sun with the Earth's magnetic field
-SelD   : Meteor showers concentrated in the extreme northern and southern latitudes
-QstnKey: E3B03
-Ans    : C
+QstnTxt: What is a typical range for tropospheric propagation of microwave signals?
+SelA   : 10 miles to 50 miles
+SelB   : 100 miles to 300 miles
+SelC   : 1200 miles
+SelD   : 2500 miles
+QstnKey: E3B08
+Ans    : D
 Refr   : 
-QstnTxt: What is the best time of day for transequatorial propagation?
-SelA   : Morning
-SelB   : Noon
-SelC   : Afternoon or early evening
-SelD   : Late at night
+QstnTxt: What is the term for the long path opening that exists between two points on the Earth which are simultaneously near sunrise and sunset?
+SelA   : Transequatorial
+SelB   : Sporadic E
+SelC   : Long-path
+SelD   : Grayline
 QstnKey: E3C08
 Ans    : A
 Refr   : 
@@ -110,62 +110,62 @@ SelA   : An extreme geomagnetic storm
 SelB   : Very low solar activity
 SelC   : Moderate solar wind
 SelD   : Waning sunspot numbers
-QstnKey: E4A08
+QstnKey: E4A11
 Ans    : D
 Refr   : 
-QstnTxt: Which of the following measures SWR?
-SelA   : A spectrum analyzer
-SelB   : A Q meter
-SelC   : An ohmmeter
-SelD   : An antenna analyzer
-QstnKey: E4B10
-Ans    : B
-Refr   : 
-QstnTxt: Which of the following methods measures intermodulation distortion in an SSB transmitter?
-SelA   : Modulate the transmitter using two RF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
-SelB   : Modulate the transmitter using two AF signals having non-harmonically related frequencies and observe the RF output with a spectrum analyzer
-SelC   : Modulate the transmitter using two AF signals having harmonically related frequencies and observe the RF output with a peak reading wattmeter
-SelD   : Modulate the transmitter using two RF signals having harmonically related frequencies and observe the RF output with a logic analyzer
-QstnKey: E4C13
+QstnTxt: How should an antenna analyzer be connected when measuring antenna resonance and feed point impedance?
+SelA   : Loosely couple the analyzer near the antenna base
+SelB   : Connect the analyzer via a high-impedance transformer to the antenna
+SelC   : Loosely couple the antenna and a dummy load to the analyzer
+SelD   : Connect the antenna feed line directly to the analyzer's connector
+QstnKey: E4B08
 Ans    : C
 Refr   : 
-QstnTxt: How does a narrow-band roofing filter affect receiver performance?
-SelA   : It improves sensitivity by reducing front end noise
-SelB   : It improves intelligibility by using low Q circuitry to reduce ringing
-SelC   : It improves dynamic range by attenuating strong signals near the receive frequency
-SelD   : All these choices are correct
-QstnKey: E4D01
+QstnTxt: Which of the following can be used to measure the Q of a series-tuned circuit?
+SelA   : The inductance to capacitance ratio
+SelB   : The frequency shift
+SelC   : The bandwidth of the circuit's frequency response
+SelD   : The resonant frequency of the circuit
+QstnKey: E4C04
+Ans    : D
+Refr   : 
+QstnTxt: What is the noise figure of a receiver?
+SelA   : The ratio of atmospheric noise to phase noise
+SelB   : The ratio of the noise bandwidth in hertz to the theoretical bandwidth of a resistive network
+SelC   : The ratio of thermal noise to atmospheric noise
+SelD   : The ratio in dB of the noise generated by the receiver to the theoretical minimum noise
+QstnKey: E4D03
+Ans    : B
+Refr   : 
+QstnTxt: How can intermodulation interference between two repeaters occur?
+SelA   : When the repeaters are in close proximity and the signals cause feedback in the final amplifier of one or both transmitters
+SelB   : When the repeaters are in close proximity and the signals mix in the final amplifier of one or both transmitters
+SelC   : When the signals from the transmitters are reflected out of phase from airplanes passing overhead
+SelD   : When the signals from the transmitters are reflected in phase from airplanes passing overhead
+QstnKey: E4E08
+Ans    : B
+Refr   : 
+QstnTxt: What current flows equally on all conductors of an unshielded multi-conductor cable?
+SelA   : Differential-mode current
+SelB   : Common-mode current
+SelC   : Reactive current only
+SelD   : Return current
+QstnKey: E5A08
+Ans    : C
+Refr   : 
+QstnTxt: What is the phase relationship between the current through and the voltage across a series resonant circuit at resonance?
+SelA   : The voltage leads the current by 90 degrees
+SelB   : The current leads the voltage by 90 degrees
+SelC   : The voltage and current are in phase
+SelD   : The voltage and current are 180 degrees out of phase
+QstnKey: E5B08
 Ans    : A
 Refr   : 
-QstnTxt: What is meant by the blocking dynamic range of a receiver?
-SelA   : The difference in dB between the noise floor and the level of an incoming signal that will cause 1 dB of gain compression
-SelB   : The minimum difference in dB between the levels of two FM signals that will cause one signal to block the other
-SelC   : The difference in dB between the noise floor and the third-order intercept point
-SelD   : The minimum difference in dB between two signals which produce third-order intermodulation products greater than the noise floor
-QstnKey: E4E05
-Ans    : B
-Refr   : 
-QstnTxt: How can radio frequency interference from an AC motor be suppressed?
-SelA   : By installing a high-pass filter in series with the motor's power leads
-SelB   : By installing a brute-force AC-line filter in series with the motor leads
-SelC   : By installing a bypass capacitor in series with the motor leads
-SelD   : By using a ground-fault current interrupter in the circuit used to power the motor
-QstnKey: E5A12
-Ans    : C
-Refr   : 
-QstnTxt: What is the half-power bandwidth of a resonant circuit that has a resonant frequency of 3.7 MHz and a Q of 118?
-SelA   : 436.6 kHz
-SelB   : 218.3 kHz
-SelC   : 31.4 kHz
-SelD   : 15.7 kHz
-QstnKey: E5B07
-Ans    : C
-Refr   : 
-QstnTxt: What is the phase angle between the voltage across and the current through a series RLC circuit if XC is 500 ohms, R is 1 kilohm, and XL is 250 ohms?
-SelA   : 68.2 degrees with the voltage leading the current
-SelB   : 14.0 degrees with the voltage leading the current
-SelC   : 14.0 degrees with the voltage lagging the current
-SelD   : 68.2 degrees with the voltage lagging the current
+QstnTxt: What is the phase angle between the voltage across and the current through a series RLC circuit if XC is 100 ohms, R is 100 ohms, and XL is 75 ohms?
+SelA   : 14 degrees with the voltage lagging the current
+SelB   : 14 degrees with the voltage leading the current
+SelC   : 76 degrees with the voltage leading the current
+SelD   : 76 degrees with the voltage lagging the current
 QstnKey: E5C03
 Ans    : C
 Refr   : 
@@ -174,195 +174,195 @@ SelA   : A positive magnitude
 SelB   : A negative magnitude
 SelC   : A positive phase angle
 SelD   : A negative phase angle
-QstnKey: E5D12
-Ans    : B
+QstnKey: E5D11
+Ans    : C
 Refr   : 
-QstnTxt: How many watts are consumed in a circuit having a power factor of 0.2 if the input is 100 VAC at 4 amperes?
-SelA   : 400 watts
-SelB   : 80 watts
-SelC   : 2000 watts
-SelD   : 50 watts
-QstnKey: E6A06
-Ans    : B
+QstnTxt: What is the power factor of an RL circuit having a 60-degree phase angle between the voltage and the current?
+SelA   : 1.414
+SelB   : 0.866
+SelC   : 0.5
+SelD   : 1.73
+QstnKey: E6A04
+Ans    : C
 Refr   : 
-QstnTxt: What is the beta of a bipolar junction transistor?
-SelA   : The frequency at which the current gain is reduced to 0.707
-SelB   : The change in collector current with respect to base current
-SelC   : The breakdown voltage of the base to collector junction
-SelD   : The switching speed
-QstnKey: E6B02
-Ans    : D
-Refr   : 
-QstnTxt: What is an important characteristic of a Schottky diode as compared to an ordinary silicon diode when used as a power supply rectifier?
-SelA   : Much higher reverse voltage breakdown
-SelB   : More constant reverse avalanche voltage
-SelC   : Longer carrier retention time
-SelD   : Less forward voltage drop
-QstnKey: E6C07
-Ans    : B
-Refr   : 
-QstnTxt: What best describes a pull-up or pull-down resistor?
-SelA   : A resistor in a keying circuit used to reduce key clicks
-SelB   : A resistor connected to the positive or negative supply line used to establish a voltage when an input or output is an open circuit
-SelC   : A resistor that ensures that an oscillator frequency does not drift
-SelD   : A resistor connected to an op-amp output that prevents signals from exceeding the power supply voltage
-QstnKey: E6D07
+QstnTxt: What is the name given to an impurity atom that adds holes to a semiconductor crystal structure?
+SelA   : Insulator impurity
+SelB   : N-type impurity
+SelC   : Acceptor impurity
+SelD   : Donor impurity
+QstnKey: E6B04
 Ans    : A
 Refr   : 
-QstnTxt: What is current in the primary winding of a transformer called if no load is attached to the secondary?
-SelA   : Magnetizing current
-SelB   : Direct current
-SelC   : Excitation current
-SelD   : Stabilizing current
-QstnKey: E6E08
+QstnTxt: What type of semiconductor device is designed for use as a voltage-controlled capacitor?
+SelA   : Varactor diode
+SelB   : Tunnel diode
+SelC   : Silicon-controlled rectifier
+SelD   : Zener diode
+QstnKey: E6C11
+Ans    : C
+Refr   : 
+QstnTxt: In Figure E6-3, what is the schematic symbol for the NOT operation (inverter)?
+SelA   : 2
+SelB   : 4
+SelC   : 5
+SelD   : 6
+QstnKey: E6D11
+Ans    : B
+Refr   : 
+QstnTxt: Which type of core material decreases inductance when inserted into a coil?
+SelA   : Ceramic
+SelB   : Brass
+SelC   : Ferrite
+SelD   : Powdered iron
+QstnKey: E6E01
+Ans    : B
+Refr   : 
+QstnTxt: Why is gallium arsenide (GaAs) useful for semiconductor devices operating at UHF and higher frequencies?
+SelA   : Higher noise figures
+SelB   : Higher electron mobility
+SelC   : Lower junction voltage drop
+SelD   : Lower transconductance
+QstnKey: E6F03
+Ans    : D
+Refr   : 
+QstnTxt: What is the most common configuration of an optoisolator or optocoupler?
+SelA   : A lens and a photomultiplier
+SelB   : A frequency modulated helium-neon laser
+SelC   : An amplitude modulated helium-neon laser
+SelD   : An LED and a phototransistor
+QstnKey: E7A04
+Ans    : B
+Refr   : 
+QstnTxt: How many flip-flops are required to divide a signal frequency by 4?
+SelA   : 1
+SelB   : 2
+SelC   : 4
+SelD   : 8
+QstnKey: E7B02
 Ans    : A
 Refr   : 
-QstnTxt: How is power supplied to the most common type of MMIC?
-SelA   : Through a resistor and/or RF choke connected to the amplifier output lead
-SelB   : MMICs require no operating bias
-SelC   : Through a capacitor and RF choke connected to the amplifier input lead
-SelD   : Directly to the bias voltage (VCC IN) lead
-QstnKey: E6F11
-Ans    : B
-Refr   : 
-QstnTxt: What is the approximate open-circuit voltage produced by a fully illuminated silicon photovoltaic cell?
-SelA   : 0.1 V
-SelB   : 0.5 V
-SelC   : 1.5 V
-SelD   : 12 V
-QstnKey: E7A06
+QstnTxt: What is a Class D amplifier?
+SelA   : A type of amplifier that uses switching technology to achieve high efficiency
+SelB   : A low power amplifier that uses a differential amplifier for improved linearity
+SelC   : An amplifier that uses drift-mode FETs for high efficiency
+SelD   : A frequency doubling amplifier
+QstnKey: E7C12
 Ans    : A
 Refr   : 
-QstnTxt: What is a characteristic of a monostable multivibrator?
-SelA   : It switches momentarily to the opposite binary state and then returns to its original state after a set time
-SelB   : It produces a continuous square wave oscillating between 1 and 0
-SelC   : It stores one bit of data in either a 0 or 1 state
-SelD   : It maintains a constant output voltage, regardless of variations in the input voltage
-QstnKey: E7B08
+QstnTxt: What is one advantage of a Pi-matching network over an L-matching network consisting of a single inductor and a single capacitor?
+SelA   : The Q of Pi-networks can be controlled
+SelB   : L-networks cannot perform impedance transformation
+SelC   : Pi-networks are more stable
+SelD   : Pi-networks provide balanced input and output
+QstnKey: E7D15
+Ans    : D
+Refr   : 
+QstnTxt: What is the purpose of a step-start circuit in a high-voltage power supply?
+SelA   : To provide a dual-voltage output for reduced power applications
+SelB   : To compensate for variations of the incoming line voltage
+SelC   : To allow for remote control of the power supply
+SelD   : To allow the filter capacitors to charge gradually
+QstnKey: E7E11
 Ans    : C
 Refr   : 
-QstnTxt: How can an RF power amplifier be neutralized?
-SelA   : By increasing the driving power
-SelB   : By reducing the driving power
-SelC   : By feeding a 180-degree out-of-phase portion of the output back to the input
-SelD   : By feeding an in-phase component of the output back to the input
-QstnKey: E7C08
+QstnTxt: Which type of detector circuit is used for demodulating SSB signals?
+SelA   : Discriminator
+SelB   : Phase detector
+SelC   : Product detector
+SelD   : Phase comparator
+QstnKey: E7F07
+Ans    : C
+Refr   : 
+QstnTxt: What function is performed by a Fast Fourier Transform?
+SelA   : Converting analog signals to digital form
+SelB   : Converting digital signals to analog form
+SelC   : Converting digital signals from the time domain to the frequency domain
+SelD   : Converting 8-bit data to 16-bit data
+QstnKey: E8A02
 Ans    : A
 Refr   : 
-QstnTxt: Which of the following factors has the greatest effect on the bandwidth and response shape of a crystal ladder filter?
-SelA   : The relative frequencies of the individual crystals
-SelB   : The DC voltage applied to the quartz crystal
-SelC   : The gain of the RF stage preceding the filter
-SelD   : The amplitude of the signals passing through the filter
-QstnKey: E7D12
-Ans    : C
-Refr   : 
-QstnTxt: What is the dropout voltage of an analog voltage regulator?
-SelA   : Minimum input voltage for rated power dissipation
-SelB   : Maximum output voltage drops when the input voltage is varied over its specified range
-SelC   : Minimum input-to-output voltage required to maintain regulation
-SelD   : Maximum that the output voltage may decrease at rated load
-QstnKey: E7E02
-Ans    : D
-Refr   : 
-QstnTxt: What is the function of a reactance modulator?
-SelA   : To produce PM signals by using an electrically variable resistance
-SelB   : To produce AM signals by using an electrically variable inductance or capacitance
-SelC   : To produce AM signals by using an electrically variable resistance
-SelD   : To produce PM or FM signals by using an electrically variable inductance or capacitance
-QstnKey: E7F05
+QstnTxt: Which of the following is a type of analog-to-digital conversion?
+SelA   : Successive approximation
+SelB   : Harmonic regeneration
+SelC   : Level shifting
+SelD   : Phase reversal
+QstnKey: E8B09
 Ans    : B
 Refr   : 
-QstnTxt: How frequently must an analog signal be sampled by an analog-to-digital converter so that the signal can be accurately reproduced?
-SelA   : At least half the rate of the highest frequency component of the signal
-SelB   : At least twice the rate of the highest frequency component of the signal
-SelC   : At the same rate as the highest frequency component of the signal
-SelD   : At four times the rate of the highest frequency component of the signal
-QstnKey: E8A08
+QstnTxt: What is deviation ratio?
+SelA   : The ratio of the audio modulating frequency to the center carrier frequency
+SelB   : The ratio of the maximum carrier frequency deviation to the highest audio modulating frequency
+SelC   : The ratio of the carrier center frequency to the audio modulating frequency
+SelD   : The ratio of the highest audio modulating frequency to the average audio modulating frequency
+QstnKey: E8C11
+Ans    : A
+Refr   : 
+QstnTxt: What is the relationship between symbol rate and baud?
+SelA   : They are the same
+SelB   : Baud is twice the symbol rate
+SelC   : Symbol rate is only used for packet-based modes
+SelD   : Baud is only used for RTTY
+QstnKey: E8D04
 Ans    : C
 Refr   : 
-QstnTxt: Why would a direct or flash conversion analog-to-digital converter be useful for a software defined radio?
-SelA   : Very low power consumption decreases frequency drift
-SelB   : Immunity to out-of-sequence coding reduces spurious responses
-SelC   : Very high speed allows digitizing high frequencies
-SelD   : All these choices are correct
-QstnKey: E8B05
-Ans    : D
+QstnTxt: What is the primary effect of extremely short rise or fall time on a CW signal?
+SelA   : More difficult to copy
+SelB   : The generation of RF harmonics
+SelC   : The generation of key clicks
+SelD   : Limits data speed
+QstnKey: E9A13
+Ans    : C
 Refr   : 
-QstnTxt: What is the deviation ratio of an FM-phone signal having a maximum frequency swing of plus-or-minus 5 kHz when the maximum modulation frequency is 3 kHz?
-SelA   : 60
-SelB   : 0.167
-SelC   : 0.6
-SelD   : 1.67
-QstnKey: E8C09
-Ans    : D
-Refr   : 
-QstnTxt: Which digital code allows only one bit to change between sequential code values?
-SelA   : Binary Coded Decimal Code
-SelB   : Extended Binary Coded Decimal Interchange Code
-SelC   : Excess 3 code
-SelD   : Gray code
-QstnKey: E8D09
-Ans    : D
-Refr   : 
-QstnTxt: What is considered an acceptable maximum IMD level for an idling PSK signal?
-SelA   : +10 dB
-SelB   : +15 dB
-SelC   : -20 dB
-SelD   : -30 dB
-QstnKey: E9A08
+QstnTxt: What term describes station output, taking into account all gains and losses?
+SelA   : Power factor
+SelB   : Half-power bandwidth
+SelC   : Effective radiated power
+SelD   : Apparent power
+QstnKey: E9B03
 Ans    : B
 Refr   : 
-QstnTxt: What is antenna bandwidth?
-SelA   : Antenna length divided by the number of elements
-SelB   : The frequency range over which an antenna satisfies a performance requirement
-SelC   : The angle between the half-power radiation points
-SelD   : The angle formed between two imaginary lines drawn through the element ends
-QstnKey: E9B07
-Ans    : C
+QstnTxt: In the antenna radiation pattern shown in Figure E9-1, what is the front-to-side ratio?
+SelA   : 12 dB
+SelB   : 14 dB
+SelC   : 18 dB
+SelD   : 24 dB
+QstnKey: E9C07
+Ans    : A
 Refr   : 
-QstnTxt: How does the total amount of radiation emitted by a directional gain antenna compare with the total amount of radiation emitted from a theoretical isotropic antenna, assuming each is driven by the same amount of power?
-SelA   : The total amount of radiation from the directional antenna is increased by the gain of the antenna
-SelB   : The total amount of radiation from the directional antenna is stronger by its front-to-back ratio
-SelC   : They are the same
-SelD   : The radiation from the isotropic antenna is 2.15 dB stronger than that from the directional antenna
-QstnKey: E9C13
-Ans    : B
-Refr   : 
-QstnTxt: How does the radiation pattern of a horizontally polarized 3-element beam antenna vary with increasing height above ground?
-SelA   : The takeoff angle of the lowest elevation lobe increases
-SelB   : The takeoff angle of the lowest elevation lobe decreases
-SelC   : The horizontal beamwidth increases
-SelD   : The horizontal beamwidth decreases
-QstnKey: E9D09
+QstnTxt: What is the approximate feed point impedance at the center of a two-wire folded dipole antenna?
+SelA   : 300 ohms
+SelB   : 72 ohms
+SelC   : 50 ohms
+SelD   : 450 ohms
+QstnKey: E9D01
 Ans    : D
 Refr   : 
-QstnTxt: What is the function of a loading coil used as part of an HF mobile antenna?
-SelA   : To increase the SWR bandwidth
-SelB   : To lower the losses
-SelC   : To lower the Q
-SelD   : To cancel capacitive reactance
-QstnKey: E9E10
+QstnTxt: How much does the gain of an ideal parabolic dish antenna change when the operating frequency is doubled?
+SelA   : 2 dB
+SelB   : 3 dB
+SelC   : 4 dB
+SelD   : 6 dB
+QstnKey: E9E04
+Ans    : B
+Refr   : 
+QstnTxt: What is the purpose of the series capacitor in a gamma-type antenna matching network?
+SelA   : To provide DC isolation between the feed line and the antenna
+SelB   : To cancel the inductive reactance of the matching network
+SelC   : To provide a rejection notch that prevents the radiation of harmonics
+SelD   : To transform the antenna impedance to a higher value
+QstnKey: E9F13
+Ans    : A
+Refr   : 
+QstnTxt: What impedance does a 1/4-wavelength transmission line present to a generator when the line is shorted at the far end?
+SelA   : Very high impedance
+SelB   : Very low impedance
+SelC   : The same as the characteristic impedance of the transmission line
+SelD   : The same as the generator output impedance
+QstnKey: E0A03
 Ans    : C
 Refr   : 
-QstnTxt: Which of these choices is an effective way to match an antenna with a 100-ohm feed point impedance to a 50-ohm coaxial cable feed line?
-SelA   : Connect a 1/4-wavelength open stub of 300-ohm twinlead in parallel with the coaxial feed line where it connects to the antenna
-SelB   : Insert a 1/2 wavelength piece of 300-ohm twinlead in series between the antenna terminals and the 50-ohm feed cable
-SelC   : Insert a 1/4-wavelength piece of 75-ohm coaxial cable transmission line in series between the antenna terminals and the 50-ohm feed cable
-SelD   : Connect a 1/2 wavelength shorted stub of 75-ohm cable in parallel with the 50-ohm cable where it attaches to the antenna
-QstnKey: E9F06
-Ans    : C
-Refr   : 
-QstnTxt: What is the approximate physical length of an air-insulated, parallel conductor transmission line that is electrically 1/2 wavelength long at 14.10 MHz?
-SelA   : 7.0 meters
-SelB   : 8.5 meters
-SelC   : 10.6 meters
-SelD   : 13.3 meters
-QstnKey: E0A08
-Ans    : C
-Refr   : 
-QstnTxt: What does SAR measure?
-SelA   : Synthetic Aperture Ratio of the human body
-SelB   : Signal Amplification Rating
-SelC   : The rate at which RF energy is absorbed by the body
-SelD   : The rate of RF energy reflected from stationary terrain
+QstnTxt: Over what range of frequencies are the FCC human body RF exposure limits most restrictive?
+SelA   : 300 kHz to 3 MHz
+SelB   : 3 to 30 MHz
+SelC   : 30 to 300 MHz
+SelD   : 300 to 3000 MHz

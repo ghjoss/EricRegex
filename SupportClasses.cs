@@ -18,7 +18,7 @@ public class Groups
 	public string description = "";
 }
 
-public class TechnicianQuestions
+public class Questions
 {
     public string ky = "";
     public string subElem = "";
